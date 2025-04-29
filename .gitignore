@@ -1,1 +1,8 @@
 .env
+Module_1/Docker/ny_taxi_postgres_data/*
+Module_1/Docker/data_pgadmin/*
+Module_1/Docker/yellow_tripdata_2021-01.csv
+Module_1/Docker/yellow_tripdata_2021-01.csv.gz
+Module_1/Docker/taxi_zone_lookup.csv
+Module_1/Docker/output.csv
+Module_1/Docker/output.csv.gz
