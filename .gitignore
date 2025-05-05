@@ -6,10 +6,16 @@ Module_1/Docker/yellow_tripdata_2021-01.csv.gz
 Module_1/Docker/taxi_zone_lookup.csv
 Module_1/Docker/output.csv
 Module_1/Docker/output.csv.gz
+Module_1/Homework/taxi_zone_lookup.csv
+Module_1/Homework/output.csv.gz
+Module_1/Homework/green_tripdata_2019-10.csv
+Module_1/Docker/green_tripdata_2019-10.csv.gz
 terraform/keys/
 Module_1/terraform/keys/my-cred.json
 my-cred.json
 /*.json
+/*.csv
+/*.csv.gz
 Module_1/terraform/keys/my-cred.json
 
 
