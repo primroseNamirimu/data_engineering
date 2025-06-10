@@ -16,8 +16,14 @@ my-cred.json
 /*.json
 /*.csv
 /*.csv.gz
+data/
+venv
 Module_1/terraform/keys/my-cred.json
-
+Module_2/data_ingestion/Airflow_tutorial
+Module_2/data_ingestion/Airflow/logs/
+.DS_Store
+Module_2/data_ingestion/Airflow_zoomcamp/logs/
+Module_1/Docker/.DS_Store
 
 # Local .terraform directories
 .terraform/
